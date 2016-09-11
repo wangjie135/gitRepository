@@ -1,1 +1,1 @@
-git is a version control tool
+git is a distribution version control tool
