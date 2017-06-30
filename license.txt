@@ -1,0 +1,3 @@
+this is a txt file 
+modify second
+modify thrid
