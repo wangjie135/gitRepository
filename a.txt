@@ -1,3 +1,7 @@
 123456
+<<<<<<< HEAD
 hello world
 morning china
+=======
+789
+>>>>>>> repo/master
